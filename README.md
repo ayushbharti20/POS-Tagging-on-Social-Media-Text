@@ -217,7 +217,7 @@ Additionally, **McNemar's Test** is used to determine whether the observed perfo
 
 ![Efficiency](plots/plot_efficiency.png)
 
-![Confusion Matrix](plots/plot_confusion_matrix.png)
+![Confusion Matrix](plots/fig6_confusion_matrix.png)
 
 ---
 
