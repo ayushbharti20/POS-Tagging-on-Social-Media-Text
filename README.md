@@ -213,6 +213,12 @@ Additionally, **McNemar's Test** is used to determine whether the observed perfo
 | HMM | 81.09 | 80.15 | 19.17 | **299.8** |
 | BiLSTM | 79.37 | 79.12 | 0.66 | 549.1 |
 
+![Performance](plots/plot_comparison.png)
+
+![Efficiency](plots/plot_efficiency.png)
+
+![Confusion Matrix](plots/plot_confusion_matrix.png)
+
 ---
 
 # 📊 Statistical Significance

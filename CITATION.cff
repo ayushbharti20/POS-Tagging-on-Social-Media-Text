@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+title: "POS Tagging on Social Media Text using HMM, CRF, BiLSTM and Transformer"
+message: "If you use this repository, please cite the associated paper."
+type: software
+
+authors:
+  - family-names: Bharti
+    given-names: Ayush
+  - family-names: Singh
+    given-names: Utkarsh
+  - family-names: Uchoi
+    given-names: Enjula
+
+repository-code: "https://github.com/ayushbharti20/POS-Tagging-on-Social-Media-Text"
+
+license: MIT
+
+doi: 10.1109/ICICI68867.2026.11564867
+
+preferred-citation:
+  type: conference-paper
+  title: "A Comparative Study of HMM, CRF, Bi-LSTM, and Transformer Models for Part-of-Speech Tagging on Social Media Text"
+  authors:
+    - family-names: Bharti
+      given-names: Ayush
+    - family-names: Singh
+      given-names: Utkarsh
+    - family-names: Uchoi
+      given-names: Enjula
+  year: 2026
+  conference:
+    name: "2026 International Conference on Innovations in Computational Intelligence (ICICI)"
+  doi: 10.1109/ICICI68867.2026.11564867
