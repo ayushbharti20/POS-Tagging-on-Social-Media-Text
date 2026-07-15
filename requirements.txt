@@ -1,0 +1,14 @@
+torch>=2.2
+transformers>=4.45
+datasets>=2.20
+accelerate>=0.34
+scikit-learn>=1.5
+sklearn-crfsuite>=0.3.6
+seqeval>=1.2.2
+conllu>=6.0
+emoji==2.12.1
+numpy>=1.26
+pandas>=2.2
+matplotlib>=3.9
+seaborn>=0.13
+scipy>=1.13
