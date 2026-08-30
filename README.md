@@ -332,10 +332,6 @@ This repository includes:
 
 ---
 
-# 🙏 Acknowledgements
+# Acknowledgements
 
 We thank the contributors of the **TweeBank V2** dataset and the developers of **PyTorch**, **Hugging Face Transformers**, **scikit-learn**, **sklearn-crfsuite**, and other open-source libraries that made this work possible.
-
----
-
-## ⭐ If you find this repository useful, consider giving it a star.
