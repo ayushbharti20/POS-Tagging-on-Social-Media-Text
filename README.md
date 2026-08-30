@@ -1,9 +1,5 @@
 # POS Tagging on Social Media Text using HMM, CRF, BiLSTM and Transformer
 
-Official implementation accompanying the IEEE conference paper:
-
-**A Comparative Study of HMM, CRF, Bi-LSTM, and Transformer Models for Part-of-Speech Tagging on Social Media Text**
-
 ---
 
 ## Overview
